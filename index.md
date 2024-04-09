@@ -5,6 +5,16 @@
 ##### h5
 ###### h6
 
+_italics_
+
+**bold**
+
+- list
+- of
+- items
+
+emoji :wave:
+
 # images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
